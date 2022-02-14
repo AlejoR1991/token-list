@@ -110008,6 +110008,17 @@
       "extensions": {
         "description": "LXCD is utility token used by members of Lex Cloud Data at www.homenetlink.com. This is still a work in progress"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8bbQugNuT8hoUnaJ7xja5hCWgQsVgHK1hc74oXREC1Hq",
+      "symbol": "AS",
+      "name": "ASKOIN",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/AlejoR1991/CRYPTOS/main/logo1.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
